@@ -1,3 +1,3 @@
 def reverse_each_word(sentence)
-  sentence.split.collect
+  s_array=sentence.split.collect
 end
